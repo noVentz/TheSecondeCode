@@ -7,15 +7,15 @@ namespace FirstApp2
         static void Main(string[] args)
         {
             int age;
-            bool logic;
+            bool isSketching;
             char symbol;
             long year;
             decimal finance;
             byte bit;
             sbyte bitSymbol;
             long numderLong;
-            ushort smalNumber;
-            short smalNumberSymbol;
+            ushort smallNumber;
+            short smallNumberSymbol;
         }
     }
 }
